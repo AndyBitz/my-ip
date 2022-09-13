@@ -1,0 +1,13 @@
+{
+  "name": "my-ip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shows the IP",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "keywords": [],
+  "author": "Andy",
+  "license": "MIT"
+}
